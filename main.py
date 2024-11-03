@@ -7,7 +7,7 @@ import random
 import telebot
 from telebot import types
 
-bot = telebot.TeleBot('7754340937:AAH08IEbm3lCS2kaZdEy210hrFhaJjRZGlw')
+bot = telebot.TeleBot('YOUR_TOKEN_GOES_HERE')
 
 
 
